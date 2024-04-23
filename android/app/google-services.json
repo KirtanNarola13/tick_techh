@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16666218441",
+    "project_id": "tick-techh",
+    "storage_bucket": "tick-techh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16666218441:android:30c7cbdbdbe6c7b249e218",
+        "android_client_info": {
+          "package_name": "com.example.tick_techh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyJ9Z2Zw8SQt-T7gWUucGb3pwRxAZ9y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
